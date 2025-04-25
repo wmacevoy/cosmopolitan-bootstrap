@@ -1,0 +1,19 @@
+{
+    "downloads" : [
+        { 
+            "url" : "https://cosmo.zip/pub/cosmos/tiny/sha256sum",
+            "filename" : "ape/sha256sum.exe",
+            "checksums" : ["697e6f11b530bdb8a431cd0bb696dac0cd2ce8d63dc843b519d3e64d2d07cd4e"]
+        },
+        {
+            "url" : "https://cosmo.zip/pub/cosmos/tiny/bash",
+            "filename" : "ape/bash.exe",
+            "checksums" : ["2b8499fe2944379eae2879985a409824b2dbbc31ca725d8adcb041a81cc86c42"]
+        },
+        {
+            "url" : "https://cosmo.zip/pub/cosmos/tiny/make",
+            "filename" : "ape/make.exe",
+            "checksums" : ["a8c9d2c2501ecb080ca8706c3c3d44de1d83340ea20974e40e5c61c3880fe0d4"]
+        }
+    ]
+}
